@@ -11,7 +11,12 @@ A new Flutter project.
 ![image](https://github.com/Manish-git-135/financemanagement/assets/61883856/ad92d7aa-9514-49f0-8ed3-8f47474082ca)
 
 
+# Architectural choices made and the reasoning behind them
+Clean Architecture used with bloc(Cubit) for batter state management.
 
+# Backend
+Firebase Auth used for login and signup
+Firebase Firestore configured.
 
 
 This project is a starting point for a Flutter application.
